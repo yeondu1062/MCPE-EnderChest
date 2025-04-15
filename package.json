@@ -1,0 +1,17 @@
+{
+  "name": "enderchest",
+  "description": "You can see the player ender chest in the minecraft bedrock map.",
+  "main": "enderChest.js",
+  "author": "yeondu1062",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "leveldb-zlib": "^1.2.0",
+    "prismarine-nbt": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
